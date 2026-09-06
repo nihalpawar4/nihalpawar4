@@ -1,161 +1,134 @@
-![header_](https://user-images.githubusercontent.com/72745563/196879565-4d03f914-da29-4629-98ea-219d63a43940.png)
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=Hi+there%F0%9F%91%8B;I'm+Nihal+Pawar%2C+a+freelancer.;I'm+a+Full+Stack+Developer">
-</h1>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,10:161b22,30:1a1b4b,50:6c3ce0,70:a855f7,90:c084fc,100:e9d5ff&height=220&section=header&text=Nihal%20Pawar&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%E2%80%A2%20Open%20Source%20Enthusiast%20%E2%80%A2%20Astrophile&descSize=18&descAlignY=55&descColor=c084fc"/>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=nihalpawar4"/>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3500&pause=800&color=C084FC&center=true&vCenter=true&random=false&width=520&lines=react+%2B+node+%3D+%E2%9D%A4%EF%B8%8F;shipping+pixels+since+2021;if+it+works%2C+don't+touch+it+%F0%9F%98%85;ctrl+%2B+s+ctrl+%2B+s+ctrl+%2B+s" alt="Typing SVG" /></a>
 </div>
 
-## About me!
+<p align="center">
+<a href="https://www.linkedin.com/in/nihalpawar44/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;
+<a href="https://twitter.com/@nihalanillusion"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white"/></a>&nbsp;
+<a href="https://www.instagram.com/webdev_codehub/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>&nbsp;
+<a href="mailto:pawarnihal44@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>&nbsp;
+<a href="https://nihalsportfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-a855f7?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>&nbsp;
+<img src="https://komarev.com/ghpvc/?username=nihalpawar4&style=for-the-badge&color=6c3ce0"/>
+</p>
 
--   💻 I’m a Full Stack Web Developer
--   🌱 I’m currently creating some awsome React projects
--   🔭 I’m currently working on my technical skills
--   👯 2023 Goals: Contribute more to Open Source projects
--   📫 How to reach me: [Linkedin](https://www.linkedin.com/in/nihalpawar44/), [Instagram](https://www.instagram.com/webdev_codehub/) , [E-Mial](pawarnihal44@gmail.com) </br>
--   Portfolio at [https://nihalsportfolio.netlify.app/](https://nihalsportfolio.netlify.app/)
--   😄 Pronouns: He/Him
--   ⚡ Fun fact: Technophile, Astrophile and ISRO Dreams
+---
 
-<table align="center">
- <h2>Connect with Me!</h2>
-<tr>
-  <td align="center"><code><a href="https://www.linkedin.com/in/nihalpawar44/" target="_blank" ><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'></a></code></td>
-  <td align="center"><code><a href="https://twitter.com/@nihalanillusion"  target="_blank" ><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'></a></code></td><td align="center"><code><a href="https://www.instagram.com/webdev_codehub/" target="_blank" ><img  src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='twitter' height='40'></a></code></td>
-   </tr>
-  <tr>
-  <td align="center"><code><a href="https://www.linkedin.com/in/nihalpawar44/" title="reach" target="_blank" >Linkedin</a></code></td>
-  <td align="center"><code><a href="https://twitter.com/@nihalanillusion" title="reach" target="_blank" >Twitter</a></code></td><td align="center"><code><a href="https://www.instagram.com/webdev_codehub/" title="reach">Instagram</a></code></td>
-  </tr>
-</table>
+<div align="center">
 
-  <br>
+### `> whoami` <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">
 
-<h2 align="center">🔥 Languages, Frameworks, Tools & Favorite tech 🔥</h2>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2500&pause=400&color=00FF41&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=500&height=130&lines=%24+cat+about_nihal.txt;%3E+Full+Stack+Dev+from+India+%F0%9F%87%AE%F0%9F%87%B3;%3E+Turning+caffeine+into+code+since+2021;%3E+Every+bug+is+an+undocumented+feature;%24+_" alt="Typing SVG" /></a>
 
-<table align="center">
-  <tr>
-    <td align="center" width="96">
-      <a target="_blank"  href="https://www.javascript.com/">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
-      </a>
-      <br>JavaScript
-    </td>
-    <td align="center" width="96">
-      <a target="_blank"  href="https://reactjs.org/" >
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="48" height="48" alt="React" />
-      </a>
-      <br>React
-    </td>
-    <td align="center" width="96">
-      <a target="_blank"  href="https://tailwindcss.com/">
-        <img src="https://raw.githubusercontent.com/Utkarsh1504/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" width="48" height="48" alt="Tailwind" />
-      </a>
-      <br>Tailwind CSS
-    </td>
-    <td align="center" width="96"> 
-      <a target="_blank"  href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" >
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="48" height="48" alt="html" />
-      </a>
-      <br>HTML5
-    </td>
-    <td align="center"  width="96">
-      <a target="_blank"  href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="48" height="48" alt="css" />
-      </a>
-      <br>CSS
-    </td>
-    <td align="center" width="96">
-      <a target="_blank"  href="https://git-scm.com/" >
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="48" height="48" alt="git" />
-      </a>
-      <br>Git
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <a target="_blank"  href="https://www.python.org/">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" height="48" alt="Python" />
-      </a>
-      <br>Python
-    </td>
-    <td align="center" width="96">
-      <a target="_blank"  href="https://www.figma.com/" >
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="48" height="48" alt="figma" />
-      </a>
-      <br>Figma
-    </td>
-       <td align="center" width="96">
-     <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-     </a> 
-      <br>C++
-    </td>
-        <td align="center" width="96">
-     <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
-         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> 
-     </a>
-      <br>Photoshop
-    </td>
-        <td align="center" width="96">
-    <a href="https://redux.js.org" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> 
-    </a> 
-      <br>Redux
-    </td>
-      <td align="center" width="96">
-     <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> 
-         <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/>
-     </a> 
-      <br>WebPack
-    </td>
-  </tr>
-</table>
+</div>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
-<br>
+```js
+// nihal.config.js
+const nihal = {
+  role: "Full Stack Developer",
+  stack: ["React", "Next.js", "Node", "Express"],
+  currently: "building sick React projects 🔨",
+  mission_2026: "ship more open source",
+  secret_dream: "work at ISRO 🚀",
+  fuel: "chai + stackoverflow ☕",
+  fun_fact: "I mass ctrl+z more than I code",
+};
+```
 
-- 💻 Strong proficiency in **JavaScript** and the JavaScript object model.
-- 🚀 In-depth understanding of **React.js** and its core principles.
-- 🔄 Experience with popular React.js workflows (**Redux**).
-- ⚛️ Experience with **React Hooks** and building custom react-hooks.
-- 🆕 Familiarity with newer specifications of **ECMAScript**.
-- 🌐 Knowledge of server-side rendering.
-- 🌍 Familiarity with **RESTful APIs**.
-- 🛠️ Good understanding of common front-end development tools such as **Babel, Parcel, Webpack, NPM, yarn**, etc.
-- 📈 Ability to understand business requirements and translate them into technical requirements.
-- 🔧 Familiarity with common tools such as **Git, Bitbucket**.
-- 🧪 Experience in **unit testing** and **integration testing**.
+---
 
-<br>
-<br>
+<div align="center">
 
------
+### `stack.technologies()` 🧰
 
-<br>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,redux,html,css,tailwind,sass,nodejs,express&perline=11&theme=dark" /></a>
+<br/>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,git,github,vscode,webpack,figma,python,cpp,gcp&perline=11&theme=dark" /></a>
 
-<p>
-    <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-lightgreen?style=for-the-badge&logo=mongodb&logoColor=4EA94B" />
-    <img alt="MySQL" src="https://img.shields.io/badge/MySQL-gray?style=for-the-badge&logo=mysql&logoColor=4EA94B" />
-    <img alt="NodeJs" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-    <img alt="npm" src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
-    <img alt="Express.js" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-    <img alt="firebase" src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" />
-    <img alt="Google Cloud" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
-    <img alt="VS Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-  </p>
-<hr>
+</div>
 
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<p align=center>
-  <div align=center>
-      <img align="left" width=396 src="https://github-readme-streak-stats.herokuapp.com/?user=nihalpawar4&theme=react&border=61dafb&hide_border=true" alt="nihalpawar4" />
-      <img align="right" width=396 src="https://github-readme-stats.vercel.app/api?username=nihalpawar4&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
-  </div>
-  <br><br><br><br><br><br><br><br><br>
-  <div align=center>
-    <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nihalpawar4&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
-  </div>
-  <br>
+---
+
+<div align="center">
+
+### `dev.proficiency()` ⚡
+
+**🎨 frontend**
+
+![React](https://img.shields.io/badge/React_/_Next.js-95%25-f97316?style=for-the-badge&labelColor=1c1917&logo=react)
+![JavaScript](https://img.shields.io/badge/JavaScript_(ES6+)-95%25-f97316?style=for-the-badge&labelColor=1c1917&logo=javascript)
+![Redux](https://img.shields.io/badge/Redux_/_Zustand-88%25-fb923c?style=for-the-badge&labelColor=1c1917&logo=redux)
+![HTML/CSS](https://img.shields.io/badge/HTML_/_CSS_/_SASS-90%25-ea580c?style=for-the-badge&labelColor=1c1917&logo=html5)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-85%25-fbbf24?style=for-the-badge&labelColor=1c1917&logo=tailwindcss)
+![SSR](https://img.shields.io/badge/SSR_/_SSG-78%25-fdba74?style=for-the-badge&labelColor=1c1917&logo=vercel)
+
+**⚙️ backend & devops**
+
+![Node](https://img.shields.io/badge/Node.js_/_Express-90%25-f97316?style=for-the-badge&labelColor=1c1917&logo=nodedotjs)
+![APIs](https://img.shields.io/badge/RESTful_APIs-88%25-fb923c?style=for-the-badge&labelColor=1c1917&logo=postman)
+![DB](https://img.shields.io/badge/MongoDB_/_MySQL-85%25-f59e0b?style=for-the-badge&labelColor=1c1917&logo=mongodb)
+![Git](https://img.shields.io/badge/Git_&_CI/CD-90%25-ea580c?style=for-the-badge&labelColor=1c1917&logo=git)
+![Testing](https://img.shields.io/badge/Testing_(Jest)-83%25-fbbf24?style=for-the-badge&labelColor=1c1917&logo=jest)
+![Build](https://img.shields.io/badge/Webpack_/_Babel-78%25-fdba74?style=for-the-badge&labelColor=1c1917&logo=webpack)
+
+</div>
+
+---
+
+<div align="center">
+
+### `git log --oneline` 📊
+
+</div>
+
+<div align="center">
+<a href="https://github.com/nihalpawar4"><img height="180" src="https://github-readme-stats.vercel.app/api?username=nihalpawar4&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=a855f7&text_color=c9d1d9&icon_color=c084fc&border_color=1a1b4b&include_all_commits=true&count_private=true&hide_border=false" /></a>&nbsp;
+<a href="https://github.com/nihalpawar4"><img height="180" src="https://streak-stats.demolab.com?user=nihalpawar4&theme=tokyonight&background=0D1117&ring=A855F7&fire=E879F9&currStreakLabel=C084FC&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=6c3ce0&border=1A1B4B" /></a>
+</div>
+
+<div align="center">
+<a href="https://github.com/nihalpawar4"><img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nihalpawar4&theme=tokyonight&bg_color=0d1117&title_color=a855f7&text_color=c9d1d9&border_color=1a1b4b&langs_count=8&layout=compact&hide_border=false" /></a>
+</div>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nihalpawar4&bg_color=0d1117&color=c084fc&line=a855f7&point=e879f9&area_color=6c3ce0&area=true&hide_border=true&custom_title=contribution%20heat%20map%20🔥" width="100%"/>
+
+---
+
+<div align="center">
+
+### `npm run achievements` 🏆
+
+</div>
+
+<p align="center">
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nihalpawar4&theme=discord&no-frame=true&no-bg=true&column=-1&margin-w=8" width="100%"/></a>
+</p>
+
+---
+
+<div align="center">
+
+### 🐍 nom nom nom
+
+</div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating contributions" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+</picture>
+
+---
+
+<div align="center">
+
+*"talk is cheap. show me the code."* — Linus Torvalds
+
+made with lots of ☕ and mass ctrl+z moments
+
+[![portfolio](https://img.shields.io/badge/check_out_my_portfolio_→-a855f7?style=for-the-badge&labelColor=0d1117)](https://nihalsportfolio.netlify.app/)
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:e9d5ff,30:c084fc,50:a855f7,70:6c3ce0,90:1a1b4b,100:0d1117&height=120&section=footer"/>
