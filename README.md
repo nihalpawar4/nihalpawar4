@@ -83,12 +83,12 @@ const nihal = {
 </div>
 
 <div align="center">
-<a href="https://github.com/nihalpawar4"><img height="180" src="https://github-readme-stats.vercel.app/api?username=nihalpawar4&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=a855f7&text_color=c9d1d9&icon_color=c084fc&border_color=1a1b4b&include_all_commits=true&count_private=true&hide_border=false" /></a>&nbsp;
+<a href="https://github.com/nihalpawar4"><img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=nihalpawar4&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=a855f7&text_color=c9d1d9&icon_color=c084fc&border_color=1a1b4b&include_all_commits=true&count_private=true&hide_border=false&rank_icon=github" /></a>&nbsp;
 <a href="https://github.com/nihalpawar4"><img height="180" src="https://streak-stats.demolab.com?user=nihalpawar4&theme=tokyonight&background=0D1117&ring=A855F7&fire=E879F9&currStreakLabel=C084FC&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=6c3ce0&border=1A1B4B" /></a>
 </div>
 
 <div align="center">
-<a href="https://github.com/nihalpawar4"><img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nihalpawar4&theme=tokyonight&bg_color=0d1117&title_color=a855f7&text_color=c9d1d9&border_color=1a1b4b&langs_count=8&layout=compact&hide_border=false" /></a>
+<a href="https://github.com/nihalpawar4"><img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=nihalpawar4&theme=tokyonight&bg_color=0d1117&title_color=a855f7&text_color=c9d1d9&border_color=1a1b4b&langs_count=8&layout=compact&hide_border=false" /></a>
 </div>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=nihalpawar4&bg_color=0d1117&color=c084fc&line=a855f7&point=e879f9&area_color=6c3ce0&area=true&hide_border=true&custom_title=contribution%20heat%20map%20🔥" width="100%"/>
@@ -99,11 +99,9 @@ const nihal = {
 
 ### `npm run achievements` 🏆
 
-</div>
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-trophies.vercel.app/?username=nihalpawar4&theme=onestar&no-frame=true&no-bg=true&column=7&margin-w=8" width="100%"/></a>
 
-<p align="center">
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nihalpawar4&theme=discord&no-frame=true&no-bg=true&column=-1&margin-w=8" width="100%"/></a>
-</p>
+</div>
 
 ---
 
